@@ -1,0 +1,7 @@
+{
+  "slug": "escola-de-ti-testeprova",
+  "EXAM_DIR": "exams/dummy-exam",
+  "PREFIXO": "Mundo",
+  "RAZAO_PREFERENCIAL": 1,
+  "PORTA_API": 9202
+}
